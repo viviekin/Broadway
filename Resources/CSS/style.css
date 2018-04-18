@@ -1,0 +1,61 @@
+* {
+  font-family: Helvetica;
+}
+
+#header {
+  background-image: url("./Resources/Images/background-image.png");
+  background-color: #cccccc;
+  text-align: center;
+}
+
+.contents {
+  font-size: 18px;
+  color: white;
+}
+
+h1 {
+  font-size: 70px;
+  color: white;
+  font-style: bold;
+  text-align: center;
+}
+
+.images {
+  text-align: center;
+}
+
+h2 {
+  font-size: 32px;
+  font-style: bold;
+  text-align: center;
+}
+
+h3 {
+  font-size: 23px;
+  text-align: center;
+}
+
+p {
+  font-size: 14px;
+  text-align: center;
+}
+
+.white {
+  background-image: url("./background-image.png");
+  background-color: #cccccc;
+  font-size: 23px;
+  color: white;
+}
+
+.Footer {
+  background-color: dimgray;
+  color: white;
+}
+
+.Copyright {
+  font-size: 11px;
+}
+
+.Links {
+  font-size: 16px;
+}
